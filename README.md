@@ -1,7 +1,7 @@
 #### URL
 https://jensengbg-sanel-jasarevic.github.io/memory-game-assignment/
 
-# Inlämningsuppgift 1 - Memory
+# Inlämningsuppgift 1: Memory
 
 ## Instruktioner
 
